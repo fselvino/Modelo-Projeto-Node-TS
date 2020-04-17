@@ -1,0 +1,15 @@
+{
+  "name": "Modelo-Projeto-Node-TS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fselvino/Modelo-Projeto-Node-TS.git",
+  "author": "<fernandoselvino@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
